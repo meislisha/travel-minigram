@@ -58,7 +58,7 @@
       "text": "首页"
     }, {
       "pagePath": "pages/tab/list/index",
-      "text": "列表"
+      "text": "发现"
     }, {
       "pagePath": "pages/tab/user/index",
       "text": "我的"
